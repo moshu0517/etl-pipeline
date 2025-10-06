@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Keep folder structure, ignore big files
+data/raw/*
+!data/raw/.gitkeep        # keep the folder
+data/staged/*
+!data/staged/.gitkeep
+data/curated/*
+!data/curated/.gitkeep
+
+# Commit lightweight samples
+!data/samples/
+data/samples/*.gz
+data/samples/*.parquet
+
+# Jupyter checkpoints
+
+*.ipynb_checkpoints/

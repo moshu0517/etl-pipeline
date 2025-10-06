@@ -1,0 +1,6 @@
+2025-10-05 18:35:44 | INFO | validate | 🔍 Validating dataset: train_transformed.csv
+2025-10-05 18:35:44 | INFO | validate | Loaded 10,000 rows, 36 columns
+2025-10-05 18:35:44 | INFO | validate | ✅ Schema check passed — all key columns present
+2025-10-05 18:35:44 | INFO | validate | ✅ No nulls found
+2025-10-05 18:35:44 | INFO | validate | ✅ All IDs unique
+2025-10-05 18:35:44 | INFO | validate | 🏁 Validation completed
